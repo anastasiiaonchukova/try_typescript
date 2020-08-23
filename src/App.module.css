@@ -1,0 +1,14 @@
+body {
+  background-color: darkseagreen;
+}
+
+.searchBar {
+  display: flex;
+  height: 24px;
+  width: 120px;
+  background-color: whitesmoke;
+}
+
+.searchButton {
+  outline: none;
+}
